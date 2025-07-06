@@ -97,3 +97,93 @@
 
 Pull Requests e Issues são bem-vindos!  
 Confira o arquivo `CONTRIBUTING.md` para saber como ajudar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# 🌍 ThinkHub: Smart Productivity Powered by AI
+
+## 🧠 Overview  
+**ThinkHub** is a modern web productivity platform designed to help users organize their tasks, manage goals, and maintain focus — all enhanced by AI. Inspired by tools like Notion, ThinkHub includes an interactive calendar, task manager, goal tracker, Pomodoro timer, and an AI assistant to help you plan and execute your day efficiently.
+
+---
+
+## 🗂️ Key Features  
+
+### 📅 Calendar  
+- Monthly and weekly views  
+- Create tasks with deadlines  
+- Set recurring events  
+
+### ✅ Task Manager  
+- Create, edit, mark, and complete tasks  
+- Prioritize and categorize  
+- Custom task lists and workflows  
+
+### 🎯 Goals  
+- Define short and long-term goals  
+- Link tasks to goals  
+- Visual progress bars  
+
+### ⏱️ Pomodoro Timer  
+- Customizable focus sessions  
+- Sound alerts and notifications  
+- Track your focus history  
+
+### 🤖 AI Assistant (Note-to-IA)  
+- Chat with an AI to ask questions, brainstorm, and stay on track  
+- Generate notes and tasks from natural language  
+- Smart suggestions based on user context  
+
+---
+
+## 🧑‍💻 Tech Stack  
+
+- **React.js** with Vite  
+- **TypeScript**  
+- **Firebase** (Auth + Database)  
+- **OpenAI API** (AI integration)  
+- **Tailwind CSS**  
+- **React Router**  
+
+---
+
+## 🚀 Roadmap
+
+| Phase   | Feature                                  | Status               |
+|---------|------------------------------------------|----------------------|
+| MVP     | Tasks, Calendar, Goals, Pomodoro         | ✅ Completed          |
+| Phase 2 | AI Integration (Note-to-IA)              | ✅ Completed          |
+| Phase 3 | Productivity Dashboard                   | 🔄 In development     |
+| Phase 4 | Mobile-first Design + PWA Support        | 🔜 Planned            |
+
+---
+
+## 💡 Why ThinkHub?
+
+- AI-powered productivity  
+- Smooth and responsive navigation  
+- Clean, minimal UI  
+- Modular and scalable codebase  
+
+---
+
+## 🤝 Contributing  
+
+Pull requests and issues are welcome!  
+Check the `CONTRIBUTING.md` file for contribution guidelines.
+
+---
+
